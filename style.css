@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+.marron{
+    color: brown;
+}
+.rouge{
+    color: red;
+}
+.orange{
+    color: orange;
+}
+.vert{
+    color: green;
+}
+.bleu{
+    color: blue;
+}
+.or{
+    color: gold;
+}
+div{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-right: 27.5%;
+    margin-left: 27.5%;
+    border: 5px groove rgba(112,106,106,0.42);
+}
